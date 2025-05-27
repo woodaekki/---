@@ -1,0 +1,24 @@
+# 환경 설정 파일
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# VSCode 설정
+.vscode/
+
+# node/npm (Vue 포함 시)
+node_modules/
+dist/
+
+# Django static/media
+/static/
+/media/
+.env
+front/vue/.env

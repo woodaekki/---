@@ -1,0 +1,926 @@
+[
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-01-09T00:00:00",
+      "close": 24.562,
+      "volume": 60.053,
+      "open": "24.82",
+      "high": "25.22",
+      "low": "24.52"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-01-11T00:00:00",
+      "close": 22.79,
+      "volume": 52.76,
+      "open": "22.955",
+      "high": "23.13",
+      "low": "22.645"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-01-12T00:00:00",
+      "close": 25.857,
+      "volume": 68.016,
+      "open": "25.695",
+      "high": "25.94",
+      "low": "25.48"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-02-10T00:00:00",
+      "close": 21.421,
+      "volume": 93.21,
+      "open": "22.41",
+      "high": "22.41",
+      "low": "21.215"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-03-10T00:00:00",
+      "close": 21.377,
+      "volume": 77.913,
+      "open": "21.31",
+      "high": "21.595",
+      "low": "20.87"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-03-11T00:00:00",
+      "close": 23.285,
+      "volume": 75.137,
+      "open": "22.875",
+      "high": "23.415",
+      "low": "22.675"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-04-10T00:00:00",
+      "close": 21.146,
+      "volume": 65.061,
+      "open": "21.375",
+      "high": "21.57",
+      "low": "20.85"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-04-12T00:00:00",
+      "close": 24.907,
+      "volume": 110.364,
+      "open": "25.945",
+      "high": "25.73",
+      "low": "24.785"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-05-09T00:00:00",
+      "close": 23.873,
+      "volume": 89.314,
+      "open": "24.565",
+      "high": "24.655",
+      "low": "23.815"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-05-10T00:00:00",
+      "close": 21.019,
+      "volume": 56.587,
+      "open": "21.18",
+      "high": "21.455",
+      "low": "20.855"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-06-09T00:00:00",
+      "close": 23.503,
+      "volume": 65.61,
+      "open": "23.88",
+      "high": "23.935",
+      "low": "23.315"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-06-11T00:00:00",
+      "close": 23.234,
+      "volume": 40.317,
+      "open": "23.335",
+      "high": "23.245",
+      "low": "23.085"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-06-12T00:00:00",
+      "close": 24.228,
+      "volume": 57.163,
+      "open": "24.53",
+      "high": "24.715",
+      "low": "24.21"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-07-09T00:00:00",
+      "close": 23.24,
+      "volume": 49.499,
+      "open": "23.50",
+      "high": "23.50",
+      "low": "23.13"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-07-11T00:00:00",
+      "close": 22.589,
+      "volume": 73.393,
+      "open": "23.125",
+      "high": "23.17",
+      "low": "22.505"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-07-12T00:00:00",
+      "close": 24.059,
+      "volume": 56.304,
+      "open": "24.23",
+      "high": "24.35",
+      "low": "23.905"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-09T00:00:00",
+      "close": 23.174,
+      "volume": 51.199,
+      "open": "23.26",
+      "high": "23.455",
+      "low": "23.13"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-11T00:00:00",
+      "close": 22.728,
+      "volume": 62.026,
+      "open": "22.705",
+      "high": "22.935",
+      "low": "22.375"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-12T00:00:00",
+      "close": 23.276,
+      "volume": 83.188,
+      "open": "24.14",
+      "high": "24.225",
+      "low": "23.245"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-22T00:00:00",
+      "close": 23.763,
+      "volume": 18.265,
+      "open": "23.71",
+      "high": "23.83",
+      "low": "23.59"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-23T00:00:00",
+      "close": 24.71,
+      "volume": 30.462,
+      "open": "23.795",
+      "high": "24.75",
+      "low": "23.79"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-24T00:00:00",
+      "close": 24.575,
+      "volume": 37.411,
+      "open": "24.70",
+      "high": "24.74",
+      "low": "24.45"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-25T00:00:00",
+      "close": 24.583,
+      "volume": 31.825,
+      "open": "24.53",
+      "high": "24.785",
+      "low": "24.31"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-28T00:00:00",
+      "close": 24.605,
+      "volume": 32.274,
+      "open": "24.62",
+      "high": "24.75",
+      "low": "24.45"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-29T00:00:00",
+      "close": 25.139,
+      "volume": 48.857,
+      "open": "24.62",
+      "high": "25.195",
+      "low": "24.555"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-08-30T00:00:00",
+      "close": 25.104,
+      "volume": 63.636,
+      "open": "25.135",
+      "high": "25.425",
+      "low": "24.92"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-10T00:00:00",
+      "close": 21.924,
+      "volume": 57.208,
+      "open": "21.94",
+      "high": "22.18",
+      "low": "21.705"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-13T00:00:00",
+      "close": 23.181,
+      "volume": 48.15,
+      "open": "23.375",
+      "high": "23.39",
+      "low": "23.025"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-14T00:00:00",
+      "close": 22.994,
+      "volume": 81.585,
+      "open": "23.14",
+      "high": "23.265",
+      "low": "22.555"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-15T00:00:00",
+      "close": 23.386,
+      "volume": 65.79,
+      "open": "22.93",
+      "high": "23.585",
+      "low": "22.91"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-18T00:00:00",
+      "close": 23.498,
+      "volume": 45.368,
+      "open": "23.32",
+      "high": "23.54",
+      "low": "23.235"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-19T00:00:00",
+      "close": 23.456,
+      "volume": 39.112,
+      "open": "23.53",
+      "high": "23.705",
+      "low": "23.365"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-20T00:00:00",
+      "close": 23.836,
+      "volume": 56.524,
+      "open": "23.48",
+      "high": "23.88",
+      "low": "23.325"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-25T00:00:00",
+      "close": 23.385,
+      "volume": 54.792,
+      "open": "23.81",
+      "high": "23.925",
+      "low": "23.29"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-28T00:00:00",
+      "close": 22.741,
+      "volume": 65.852,
+      "open": "22.80",
+      "high": "22.955",
+      "low": "22.61"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-09-29T00:00:00",
+      "close": 22.45,
+      "volume": 109.554,
+      "open": "22.84",
+      "high": "23.805",
+      "low": "22.325"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-11T00:00:00",
+      "close": 22.281,
+      "volume": 58.708,
+      "open": "22.705",
+      "high": "22.80",
+      "low": "22.23"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-13T00:00:00",
+      "close": 22.895,
+      "volume": 74.419,
+      "open": "21.985",
+      "high": "22.99",
+      "low": "21.96"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-16T00:00:00",
+      "close": 22.765,
+      "volume": 35.125,
+      "open": "22.91",
+      "high": "22.91",
+      "low": "22.635"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-17T00:00:00",
+      "close": 23.024,
+      "volume": 47.657,
+      "open": "22.78",
+      "high": "23.18",
+      "low": "22.535"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-18T00:00:00",
+      "close": 23.099,
+      "volume": 65.24,
+      "open": "22.975",
+      "high": "23.49",
+      "low": "22.84"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-19T00:00:00",
+      "close": 23.031,
+      "volume": 57.408,
+      "open": "23.015",
+      "high": "23.23",
+      "low": "22.785"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-20T00:00:00",
+      "close": 23.53,
+      "volume": 78.838,
+      "open": "23.19",
+      "high": "23.88",
+      "low": "23.015"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-23T00:00:00",
+      "close": 23.21,
+      "volume": 50.916,
+      "open": "23.235",
+      "high": "23.30",
+      "low": "23.065"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-24T00:00:00",
+      "close": 23.116,
+      "volume": 46.43,
+      "open": "23.095",
+      "high": "23.16",
+      "low": "22.90"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-26T00:00:00",
+      "close": 22.908,
+      "volume": 58.346,
+      "open": "23.005",
+      "high": "23.275",
+      "low": "22.565"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-27T00:00:00",
+      "close": 22.887,
+      "volume": 45.217,
+      "open": "22.935",
+      "high": "23.255",
+      "low": "22.775"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-30T00:00:00",
+      "close": 23.396,
+      "volume": 57.268,
+      "open": "23.245",
+      "high": "23.75",
+      "low": "23.175"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-10-31T00:00:00",
+      "close": 22.952,
+      "volume": 53.422,
+      "open": "23.455",
+      "high": "23.465",
+      "low": "22.84"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-09T00:00:00",
+      "close": 23.383,
+      "volume": 41.244,
+      "open": "23.195",
+      "high": "23.40",
+      "low": "23.345"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-10T00:00:00",
+      "close": 22.133,
+      "volume": 43.371,
+      "open": "22.015",
+      "high": "22.275",
+      "low": "21.955"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-12T00:00:00",
+      "close": 23.058,
+      "volume": 54.773,
+      "open": "23.30",
+      "high": "23.40",
+      "low": "23.015"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-13T00:00:00",
+      "close": 22.358,
+      "volume": 59.134,
+      "open": "22.31",
+      "high": "22.405",
+      "low": "21.925"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-14T00:00:00",
+      "close": 23.132,
+      "volume": 75.657,
+      "open": "22.37",
+      "high": "23.255",
+      "low": "22.15"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-15T00:00:00",
+      "close": 23.538,
+      "volume": 70.517,
+      "open": "23.16",
+      "high": "23.71",
+      "low": "23.095"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-16T00:00:00",
+      "close": 23.933,
+      "volume": 81.399,
+      "open": "23.51",
+      "high": "23.83",
+      "low": "23.80"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-17T00:00:00",
+      "close": 23.775,
+      "volume": 52.717,
+      "open": "23.825",
+      "high": "23.805",
+      "low": "23.76"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-21T00:00:00",
+      "close": 24.221,
+      "volume": 22.761,
+      "open": "23.825",
+      "high": "24.43",
+      "low": "23.82"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-22T00:00:00",
+      "close": 24.033,
+      "volume": 23.588,
+      "open": "24.145",
+      "high": "24.355",
+      "low": "23.935"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-27T00:00:00",
+      "close": 25.038,
+      "volume": 53.321,
+      "open": "24.75",
+      "high": "25.29",
+      "low": "24.68"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-28T00:00:00",
+      "close": 25.302,
+      "volume": 62.437,
+      "open": "25.065",
+      "high": "25.445",
+      "low": "24.94"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-29T00:00:00",
+      "close": 25.443,
+      "volume": 65.823,
+      "open": "25.43",
+      "high": "25.68",
+      "low": "25.245"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-11-30T00:00:00",
+      "close": 25.66,
+      "volume": 49.428,
+      "open": "25.41",
+      "high": "25.70",
+      "low": "25.325"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-10T00:00:00",
+      "close": 21.959,
+      "volume": 49.432,
+      "open": "22.205",
+      "high": "22.39",
+      "low": "21.88"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-12T00:00:00",
+      "close": 23.016,
+      "volume": 54.186,
+      "open": "23.125",
+      "high": "23.45",
+      "low": "22.975"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-13T00:00:00",
+      "close": 22.921,
+      "volume": 77.775,
+      "open": "23.075",
+      "high": "24.125",
+      "low": "22.785"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-18T00:00:00",
+      "close": 24.107,
+      "volume": 41.128,
+      "open": "24.125",
+      "high": "24.355",
+      "low": "23.955"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-20T00:00:00",
+      "close": 24.631,
+      "volume": 45.871,
+      "open": "24.36",
+      "high": "24.75",
+      "low": "24.245"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-21T00:00:00",
+      "close": 24.585,
+      "volume": 45.075,
+      "open": "24.46",
+      "high": "24.79",
+      "low": "24.43"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-22T00:00:00",
+      "close": 24.565,
+      "volume": 47.671,
+      "open": "24.705",
+      "high": "24.895",
+      "low": "24.37"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-26T00:00:00",
+      "close": 24.396,
+      "volume": 27.003,
+      "open": "24.495",
+      "high": "24.70",
+      "low": "24.34"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-27T00:00:00",
+      "close": 24.641,
+      "volume": 42.321,
+      "open": "24.505",
+      "high": "24.73",
+      "low": "24.22"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-28T00:00:00",
+      "close": 24.372,
+      "volume": 35.081,
+      "open": "24.55",
+      "high": "24.74",
+      "low": "24.185"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2023-12-29T00:00:00",
+      "close": 24.086,
+      "volume": 45.455,
+      "open": "24.225",
+      "high": "24.235",
+      "low": "23.76"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-01-16T00:00:00",
+      "close": 23.093,
+      "volume": 60.349,
+      "open": "23.35",
+      "high": "23.50",
+      "low": "23.015"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-01-18T00:00:00",
+      "close": 22.807,
+      "volume": 45.111,
+      "open": "22.715",
+      "high": "22.90",
+      "low": "22.52"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-01-19T00:00:00",
+      "close": 22.711,
+      "volume": 40.328,
+      "open": "22.885",
+      "high": "22.98",
+      "low": "22.595"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-02-01T00:00:00",
+      "close": 23.953,
+      "volume": 45.478,
+      "open": "24.045",
+      "high": "24.335",
+      "low": "23.875"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-03-01T00:00:00",
+      "close": 23.157,
+      "volume": 82.186,
+      "open": "23.885",
+      "high": "23.95",
+      "low": "23.045"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-04-01T00:00:00",
+      "close": 23.187,
+      "volume": 50.503,
+      "open": "23.19",
+      "high": "23.26",
+      "low": "22.88"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-05-01T00:00:00",
+      "close": 23.315,
+      "volume": 60.321,
+      "open": "23.205",
+      "high": "23.715",
+      "low": "22.97"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-10-01T00:00:00",
+      "close": 23.066,
+      "volume": 41.065,
+      "open": "23.16",
+      "high": "23.29",
+      "low": "22.935"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-11-01T00:00:00",
+      "close": 22.705,
+      "volume": 78.484,
+      "open": "23.085",
+      "high": "23.40",
+      "low": "22.63"
+    }
+  },
+  {
+    "model": "gold_silver.silverprice",
+    "fields": {
+      "date": "2024-12-01T00:00:00",
+      "close": 23.329,
+      "volume": 70.306,
+      "open": 22.92,
+      "high": "23.72",
+      "low": "22.915"
+    }
+  }
+]
